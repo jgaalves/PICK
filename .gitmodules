@@ -1,0 +1,3 @@
+[submodule "descomplicando-kubernetes"]
+	path = descomplicando-kubernetes
+	url = https://github.com/jgaalves/descomplicando-kubernetes
